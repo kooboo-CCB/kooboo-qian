@@ -37,7 +37,7 @@ export default defineConfig({
           ],
         },
       ],
-      "/notes/k_Script/": [
+      "/notes/kScript/": [
         {
           items: [
             { text: "KScipt", link: "/notes/kScript/" },
