@@ -1,1 +1,0 @@
-import{_ as e,o,c as t}from"./chunks/framework.0e180df0.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/Kooboo模板语法/index.md"}'),n={name:"notes/Kooboo模板语法/index.md"};function a(r,s,c,d,i,p){return o(),t("div")}const f=e(n,[["render",a]]);export{m as __pageData,f as default};
