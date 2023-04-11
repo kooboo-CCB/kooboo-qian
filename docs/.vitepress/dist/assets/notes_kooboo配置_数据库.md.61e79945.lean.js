@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,N as r}from"./chunks/framework.0e180df0.js";const b=JSON.parse('{"title":"数据库","description":"","frontmatter":{},"headers":[],"relativePath":"notes/kooboo配置/数据库.md"}'),o={name:"notes/kooboo配置/数据库.md"},l=r("",8),s=[l];function i(h,n,d,c,_,q){return e(),t("div",null,s)}const m=a(o,[["render",i]]);export{b as __pageData,m as default};
