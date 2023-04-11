@@ -6,7 +6,7 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "Kooboo模板语法", link: "/notes/Kooboo模板语法/" },
-      { text: "KScript", link: "/notes/kScript/" },
+      { text: "KScript", link: "/notes/KScript/" },
       { text: "kooboo配置", link: "/notes/kooboo配置/" },
       { text: "特殊样式示例", link: "/examples/api-examples" },
     ],
@@ -37,12 +37,8 @@ export default defineConfig({
           ],
         },
       ],
-      "/notes/kScript/": [
-        {
-          items: [
-            { text: "KScipt", link: "/notes/kScript/" },
-          ],
-        },
+      "/notes/KScript/": [
+       
       ],
       "/notes/kooboo配置/": [
         {
