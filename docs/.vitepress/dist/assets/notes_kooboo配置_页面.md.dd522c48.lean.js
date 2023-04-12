@@ -1,0 +1,1 @@
+import{_ as a,o,c as e,N as t}from"./chunks/framework.0e180df0.js";const g=JSON.parse('{"title":"页面","description":"","frontmatter":{},"headers":[],"relativePath":"notes/kooboo配置/页面.md"}'),r={name:"notes/kooboo配置/页面.md"},i=t("",15),l=[i];function n(s,d,c,h,_,u){return o(),e("div",null,l)}const b=a(r,[["render",n]]);export{g as __pageData,b as default};

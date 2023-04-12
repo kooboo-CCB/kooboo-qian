@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,N as o}from"./chunks/framework.0e180df0.js";const m=JSON.parse('{"title":"系统","description":"","frontmatter":{},"headers":[],"relativePath":"notes/kooboo配置/系统.md"}'),r={name:"notes/kooboo配置/系统.md"},n=o("",9),s=[n];function i(l,_,c,h,d,p){return t(),e("div",null,s)}const f=a(r,[["render",i]]);export{m as __pageData,f as default};
